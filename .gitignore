@@ -19,8 +19,9 @@ __pycache__/
 *$py.class
 *.so
 
-# Notebooks (will be added later)
-notebooks/
+# Ignore video files in notebooks
+notebooks/*.mp4
+notebooks/*.h264
 
 # Test scripts
 test_*.py
