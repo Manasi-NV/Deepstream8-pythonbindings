@@ -3,8 +3,8 @@
 ## Prerequisites
 
 - Docker
-- NVIDIA GPU
-- NVIDIA Container Toolkit (nvidia-docker)
+- NVIDIA Driver Version - 570.124.06
+- CUDA Version - 12.8
 
 ## Build Instructions
 
