@@ -36,7 +36,7 @@ docker run -it --rm \
 
 Access Jupyter Lab at: **http://localhost:9901**
 
-## What's Included
+## In the docker - 
 
 - **DeepStream 8.0** with Triton support (base: `nvcr.io/nvidia/deepstream:8.0-triton-multiarch`)
 - **Python bindings (pyds)** Python bindings from https://github.com/NVIDIA-AI-IOT/deepstream_python_apps
