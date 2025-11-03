@@ -5,8 +5,7 @@ echo "=========================================="
 echo "Starting DeepStream 8.0 + Jupyter Lab"
 echo "=========================================="
 echo ""
-echo "🌐 Jupyter Lab will be available at: http://localhost:8888"
-echo "🔓 No authentication required"
+echo " Jupyter Lab will be available at: http://localhost:8888"
 echo ""
 
 # Run the container with GPU support and notebook mounting
