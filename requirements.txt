@@ -1,0 +1,13 @@
+# Core Jupyter library
+jupyter
+jupyterlab
+notebook
+ipykernel
+
+# Common data science libraries
+numpy
+pandas
+matplotlib
+scikit-learn
+opencv-python
+
