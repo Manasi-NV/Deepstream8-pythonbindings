@@ -23,7 +23,6 @@ Then open: **http://localhost:8888**
 | `object_detection.ipynb` | Basic object detection pipeline with traffic detection model |
 | `object_detection_multistream.ipynb` | Process multiple video streams simultaneously |
 | `object_detection_and_tracking_classification.ipynb` | Detection + tracking + secondary classification |
-| `queue_sizing.ipynb` | **Queue length monitoring** with PeopleNet model, ROI-based counting, and smart filtering |
 
 
 ## Prerequisites
